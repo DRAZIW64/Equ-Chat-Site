@@ -1,0 +1,24 @@
+
+[
+    {
+        "description":"Avslutte chat med bruker:",
+    "value": "1",
+    "name": "Avslutte chat med bruker:",
+    "content":"Takk for at du chattet med oss i dag. Hvis du får andre spørsmål senere, er du velkommen til å ta kontakt med oss når som helst.\nHa en fin dag videre! "
+    },
+    {
+        "description":"Hvordan avslutte en chat hvor du ikke får respons fra bruker:",
+    "value": "2",
+    "name": "Hvordan avslutte en chat hvor du ikke får respons fra bruker:",
+    "content": "Siden vi ikke får noen respons må vi dessverre avslutte denne chatten for å assistere andre.\nDette kan være grunnet teknisk svikt. Hvis du får denne meldingen, vennligst start en ny chat eller ring oss på +47 51 999 222.\nTakk for at du kontaktet Service Desk Chat."
+    },
+    {  
+        "description":"Hvordan håndtere passord-forespørsler:",   
+    "value": "3",
+    "name": "Hvordan håndtere passord-forespørsler:",
+    "content": "Av sikkerhetshensyn kan vi dessverre ikke gjøre passord reset via chat support.\nVennligst bruk denne linken for å resette Equinor passord: http://password.equinor.com\nFor andre passord kan du lage en henvendelse via følgende link, eller du kan ringe oss på +47 51 999 222.\nhttps://equinor.service-now.com/selfservice?id=sc_cat_item&sys_id=a65642b06fd7510021687afede3ee4b4"
+    }
+]
+
+
+    

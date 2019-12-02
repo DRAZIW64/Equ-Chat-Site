@@ -1,0 +1,61 @@
+
+[
+    {
+        "description":"Phishline",
+    "value": "1",
+    "name": "Phishline",
+    "content":"Can you try to do the following:\n-Close all Outlook windows that are open\n-Open Equinor Applications from the start-menu\n-Find the software: 'Microsoft Outlook Report Phishing Email Add-in'\n-Install the software. If a version of this software is already installed, you can click 'Uninstall' - then 'install'.\n\n\nKB0034428"
+    },
+    {
+        "description":"Powerpoint template missing",
+    "value": "2",
+    "name": "Powerpoint template missing",
+    "content": "Can you try to do the following:\n-Close all PowerPoint and Word windows that are open\n-Open Equinor Applications from the start-menu\n-Find the software 'Microsoft Office Corporate Template'\n-Install the software. If a version of this software is already installed, you can click 'Uninstall' - then 'install'.\n\nKB0020084"
+    },
+    {  
+        "description":"RDP / Microsoft Remote Desktop Connection issues",   
+    "value": "3",
+    "name": "RDP / Microsoft Remote Desktop Connection issues",
+    "content": "If you hare experiencing issues with connecting to a laptop via Remote Desktop connection, you may try the following:\n-Log on to (physical) the laptop you are attempting to connect to\n-Make sure that the laptop is connected via cable to the network for best result\n\n-Open Equinor Applications, find the software 'Windows 10 - Enable Remote Desktop on this computer for you' and install this. When this is done, your username will be in the list of approved users that may log onto this PC-number via Remote Connection.\n\nYou may now attempt to connect via Remote Desktop Connection, but we do recommend that you also write down the IP-address on the laptop, as it your PC-number might not be updated with the correct IP-adresse:\n-Open the start-menu, write CMD and hit enter \n-Inside the black Command Prompt, write IPCONFIG and hit enter again\n-Write down the addresse that is listed afer IPv4 Address - (for example 10.123.123.1)\n\nIf you still can not get a connection with the laptop when you connect to the PC-number, you can attempt to write down this IPv¤ address instead (Where you usually insert LT-123456). This address is not static, so it might change from day to day - if it is extended time between the laptop and the place you are accessing it from, it is recommended to note down the current IP-address before connecting via RDP.\n\nKB0029783"
+    },
+    {
+        "description":"Adobe Acrobat Standard missing",
+    "value": "4",
+    "name": "Adobe Acrobat Standard missing",
+    "content":"After 2018/2019, Adobe Acrobat Standard was removed from Equinor Applications.\nThe software should know be installed automatically in the background. An additional change is that the software is now named 'Adobe Acrobat 2017' in the start-menu.\nCan you see if you can find the software 'Adobe Acrobat 2017' in your start-menu?"
+    },
+    {
+        "description":"Eksternal o365 access",
+    "value": "5",
+    "name": "External O365-access",
+    "content":"As an external hire in Equinor you need additional access from AccessIT to be able to use Outlook and other Office-software. If you have had this previously, it might have expired as it has to be renewed yearly.\nCan you first of all check if you have access to: 'o365 (ECS): EMAIL, FILE STORAGE, OFFICE ONLINE & ON PCS' under your 'My Access' at AccessIT\nhttps://accessit.equinor.com/Request/MyAccess\nIf you do not have that access, you have to apply again. You can do that from here:\nhttps://accessit.equinor.com/Search/Search?term=O365+%28ECS%29%3A+EMAIL%2C+FILE+STORAGE%2C+OFFICE+ONLINE+%26+ON+PCS \nThis access will be accepted automatically, but it might unfortunately take between 4-24 hours from the access has been applied for until the lisence is active in the system, therefore - you might not get full access before tomorrow. \n\nKB0034176"
+    },
+    {
+        "description":"Windows 10 – rollout order",
+    "value": "6",
+    "name": "Windows 10 – rollout order",
+    "content":"I can create a inquiry for you to the Windows 10-team. I need the following information:\n-Current yellow/hvite number\n-What PC you wish to order\n-What location (Go-To-IT) you can pick the new computer up at\n-What times are you available to pick it up"
+    },
+    {
+        "description":"SafeNet MobilePASS",
+    "value": "7",
+    "name": "SafeNet MobilePASS",
+    "content":"I have sent you a new enrollment link to your email. This email must be opened on the device(PC or MOBILE) you are activating MobilePASS on. Log onto the self-enrollment link with your Equinor-shortname and password.\nIf you have not installed MobilePass on your device yet, you must do this.\nThis KB-article describes the process to install and activate SafeNet MobilePass. Please notify us if you have questions or need any assistance.\n\nKB0037204"
+    },
+    {
+        "description":"ID-Card",
+        "value": "10",
+        "name": "ID-Card",
+        "content":"To order a new access card you must show up physically at your local ID-cardoffice. The person that needs a new card or needs a new photo must have valid ID - which is: drivers lisence, passport or international ID. Different ID-card offices has different times they are open. please open: \nKB0035054"
+        },
+    {
+        "description":"Office desk issues",
+        "value": "11",
+        "name": "Office desk issues",
+        "content":"Please ensure that all wires are properly attached. Drive the desk all the way down. Hold the 'down'-button down for 10-15 seconds, this will reset the the desks elevation function. Please try to elevate your desk after this"
+        }
+
+]
+
+
+    

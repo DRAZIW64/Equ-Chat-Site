@@ -1,0 +1,24 @@
+
+[
+    {
+        "description":"HR TRANSFERLIST",
+    "value": "1",
+    "name": "Service Desk HR",
+    "content":" Payslip \n Loan(car loans) \n Timewriting \n Courses(Not Technical support) \n Onboarding \n Cabin/Cabinweb \n Mobile Invoices \n Internal Timewriting \n Travel support \n Paternity/maternity \n Hr enterprise (registration,rehire, sap 07 HR) \n Share savings \n Sickness \n Pension and insurance \n Benefits and compensation"
+    },
+    {
+        "description":"FIN TRANSFERLIST",
+    "value": "2",
+    "name": "Service Desk FINANCE",
+    "content": " Invoices \n Task Manager Workflow \n Financial Analytics \n MIS \n Credit Note/Credit memo \n Interview Expense Claim \n Joint Venture \n WBS"
+    },
+    {  
+        "description":"PROCURE TRANSFERLIST",   
+    "value": "3",
+    "name": "Service Desk PROCUREMENT",
+    "content": " External timewriting \n Service Entry \n Purchase Orders \n Network Orders \n Requisitions \n Vendor portal \n Contiki SCM \n DSP Drilling supply portal \n Invoice authorizer"
+    }
+]
+
+
+    

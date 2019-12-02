@@ -1,0 +1,24 @@
+
+[
+    {
+        "description":"End chat with user:",
+    "value": "1",
+    "name": "End chat with user:",
+    "content":"Thank you for chatting with us today. If you get other questions at a later point, you are welcome to contact us at your leisure.\nHave a nice day!"
+    },
+    {
+        "description":"End chat with user where there is no response:",
+    "value": "2",
+    "name": "End chat with user where there is no response:",
+    "content": "Since we are not getting any responce from you, we unfortunately have to close this chat to assist others.\nThis might be because of techincal error. If you are receiving this message, please start a new chat or call us on +47 51 999 222.\nThank you for contacting Service Desk Chat"
+    },
+    {  
+        "description":"Password inquiries",   
+    "value": "3",
+    "name": "Password inquiries",
+    "content": "Due to safety concerns, we can unfortunately not do a password reset via chat support.\nPlease use this link to reset your Equinor password: http://password.equinor.com \nFor other passwords you may create a ticket via the following link, or call us on +47 51 999 222.\nhttps://equinor.service-now.com/selfservice?id=sc_cat_item&sys_id=a65642b06fd7510021687afede3ee4b4"
+    }
+]
+
+
+    

@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+}
+.App-header {
+  font-family: "Poppins", sans-serif;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.descriptive{
+  font-family: "Poppins", sans-serif;
+ font-size: 22px;
+ background-color: rgba(230, 230, 230, 0.616);
+ border-radius: 5px;
+ padding: 5px;
+ border: 0.5px solid rgba(141, 138, 138, 0.692); 
+ width: auto;
+ padding-bottom: 5px;
+ border-bottom: 5px;
+ margin-top: 5px;
+ margin-bottom: -1px;
+ background: -moz-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ff3.6+ */
+ background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(250,246,240,1)), color-stop(100%, rgba(204,229,237,1))); /* safari4+,chrome */
+ background: -webkit-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* safari5.1+,chrome10+ */
+ background: -o-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* opera 11.10+ */
+ background: -ms-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ie10+ */
+ background: linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* w3c */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCE5ED', endColorstr='#FAF6F0',GradientType=1 ); /* ie6-9 */
+ 
+}
+.insertText{
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  border: 0.5px solid rgba(141, 138, 138, 0.692);
+  padding: 20px;
+  width: auto;
+  height: auto;
+  font-size:16px;
+  white-space: pre-wrap;
+  padding-bottom: 10px;
+  border-top: 0.5px solid rgba(141, 138, 138, 0.692);
+  background: -moz-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ff3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(250,246,240,1)), color-stop(100%, rgba(204,229,237,1))); /* safari4+,chrome */
+  background: -webkit-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* opera 11.10+ */
+  background: -ms-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ie10+ */
+  background: linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCE5ED', endColorstr='#FAF6F0',GradientType=1 ); /* ie6-9 */
+}
+
+.ui.pointing.menu  {
+  position: relative;
+  top: 5px;
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+  width: auto;
+  height: auto;
+}
+.root{
+  border-top: 20px;
+  background-color: black;
+
+}
+html body {
+  background: url("./img/background.jpg");
+  background-repeat: no-repeat;
+  background: cover;
+  height:100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: scroll;
+}
+.switch {
+  white-space: nowrap;
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 100%;
+  outline: none;
+}
+.switch input {
+  position: absolute;
+  top: -99999px;
+  left: -99999px;
+}
+.slider {
+  font-family: "Poppins", sans-serif;
+  white-space: nowrap;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+  background: -moz-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ff3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(250,246,240,1)), color-stop(100%, rgba(204,229,237,1))); /* safari4+,chrome */
+  background: -webkit-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* opera 11.10+ */
+  background: -ms-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ie10+ */
+  background: linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCE5ED', endColorstr='#FAF6F0',GradientType=1 ); /* ie6-9 */ 
+}
+.slider p{
+  top: 35%;
+}
+.slider:before {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  white-space: nowrap;
+  content: "";
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 34px;
+  left:0px;
+  bottom: 0;
+  top: 0;
+  background-color: darkgray;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 5px;
+}
+
+input:checked + .slider {
+  background-color: #ccc;
+}
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+div label p {
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  top: 15px;
+  margin-top:auto;
+  margin-bottom: auto;
+  color: darkgray;
+
+}
+div button {
+  width:100%;
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  border:none;
+  border-radius: 5px;
+  background: -moz-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ff3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(250,246,240,1)), color-stop(100%, rgba(204,229,237,1))); /* safari4+,chrome */
+  background: -webkit-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* opera 11.10+ */
+  background: -ms-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ie10+ */
+  background: linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCE5ED', endColorstr='#FAF6F0',GradientType=1 ); /* ie6-9 */
+
+}
+.dropdown{
+  display: flex;
+  position: relative;
+  white-space: nowrap;
+  width: 100%;
+}
+.dropdown p {
+  white-space: nowrap;
+}
+
+.selector{
+  width:100%;
+}
+.popup {
+  overflow: scroll;
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+
+}
+.popup_inner {
+  overflow: scroll;
+  height: 80%;
+  width: 80%;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  position: flex;
+  left: 25%;
+  right: 25%;
+  top: 40px;
+  bottom: 25%;
+  margin: auto;
+  margin-top:5%;
+  border: 0.5px solid rgba(141, 138, 138, 0.692);
+  border-radius: 5px;
+  background: -moz-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ff3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(250,246,240,1)), color-stop(100%, rgba(204,229,237,1))); /* safari4+,chrome */
+  background: -webkit-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* opera 11.10+ */
+  background: -ms-linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* ie10+ */
+  background: linear-gradient(45deg, rgba(250,246,240,1) 0%, rgba(204,229,237,1) 100%); /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCE5ED', endColorstr='#FAF6F0',GradientType=1 ); /* ie6-9 */
+}
+.help-topic{
+ text-align:center;
+}
+.help-paragraph{
+text-align:center;
+}
+.help-divsep{
+  padding-top:5px;
+  margin-top:15px;
+  position: flex;
+  margin: auto;
+  border: 0.5px solid darkgray;
+  border-radius: 5px;
+  width: 80%;
+}
+.select-value{
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  position: relative;
+  margin-left: 5px;
+  border-radius: 5px;
+  white-space: nowrap;
+  width:auto;
+  height: auto;
+  border: 0.5px solid darkgray;
+  top: auto;
+  overflow: scroll;
+}
+
+
+
+
+
+

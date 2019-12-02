@@ -1,0 +1,40 @@
+{
+  "name": "multichatsite",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-bootstrap-alert": "^1.0.7",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.12.0",
+    "react-html-id": "^0.1.5",
+    "react-id-generator": "^2.0.0",
+    "react-modal": "^3.11.1",
+    "react-scripts": "3.1.2",
+    "semantic-ui-react": "^0.88.1",
+    "sweetalert": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}

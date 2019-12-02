@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b59dcc6b.chunk.css",
+    "main.js": "/static/js/main.803c1fc0.chunk.js",
+    "main.js.map": "/static/js/main.803c1fc0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32e53c60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32e53c60.js.map",
+    "static/js/2.104e96c1.chunk.js": "/static/js/2.104e96c1.chunk.js",
+    "static/js/2.104e96c1.chunk.js.map": "/static/js/2.104e96c1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.48c944811e4cced86290511ceae9b09e.js": "/precache-manifest.48c944811e4cced86290511ceae9b09e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b59dcc6b.chunk.css.map": "/static/css/main.b59dcc6b.chunk.css.map",
+    "static/media/Explanation-edit-Operators.JPG": "/static/media/Explanation-edit-Operators.6a17dc00.JPG",
+    "static/media/Explanation-edit-favorites.JPG": "/static/media/Explanation-edit-favorites.858460fb.JPG",
+    "static/media/Explanation-editadd-linebreak.JPG": "/static/media/Explanation-editadd-linebreak.9661dff6.JPG",
+    "static/media/Explanation-edittsadd-alltopics.JPG": "/static/media/Explanation-edittsadd-alltopics.4d936ffe.JPG",
+    "static/media/App.css": "/static/media/background.656ec332.jpg",
+    "static/media/image.jpg": "/static/media/image.06cca67e.jpg"
+  }
+}

@@ -1,0 +1,61 @@
+
+[
+    {
+        "description":"Phishline",
+    "value": "1",
+    "name": "Phishline",
+    "content":"Kan du forsøke å gjøre følgende:\n-Lukk alle Outlook vinduer du har åpne\n-Åpne Equinor Applications fra start-menyen\n-Finn programmet 'Microsoft Outlook Report Phishing Email Add-in'\n-Installer programmet. Om det allerede er installert kan du trykke 'Uninstall' - deretter 'install'.\n\n\nKB0034428 "
+    },
+    {
+        "description":"Powerpoint template missing",
+    "value": "2",
+    "name": "Powerpoint template missing",
+    "content": "Kan du forsøke å gjøre følgende:\n-Lukk alle PowerPoint og Word-vinduer du har åpne\n-Åpne Equinor Applications fra start-menyen\n-Finn programmet 'Microsoft Office Corporate Template'\n-Installer programmet. Om det allerede er installert, kan du trykke 'Uninstall' deretter 'install'.\n\nKB0020084"
+    },
+    {  
+        "description":"RDP / Microsoft Remote Desktop Connection issues",   
+    "value": "3",
+    "name": "RDP / Microsoft Remote Desktop Connection issues",
+    "content": "Hvis du har problemer med å koble deg på laptopen din via Remote Desktop Connection, kan du forsøke å gjøre følgende:\n-Logg deg inn (fysisk) på laptopen du forsøker å koble til\n-Sørg for at laptopen er tilkoblet kablet nettverk for best resultat\n\n-Åpne Equinor Applications, finn programmet 'Windows 10 – Enable Remote Desktop on this computer for you' og installer denne. Når det er fullført, vil brukernavnet ditt ligge i lista over godkjente brukere som kan logge på dette PC-nummeret via Remote Desktop Connection.\n\nDu kan nå forsøke å koble deg på via Remote Desktop Connection, men vi anbefaler at du også noterer ned IP-adressen på laptopen, da det kan være at PC-nummeret ikke ligger oppdatert med riktig IP-adresse:\n-Åpne start-menyen, skriv CMD og trykk enter \n-Inne i den svarte Command Prompt ruta kan du skrive IPCONFIG og trykke enter\n-Noter ned adressen som ligger bak IPv4 Address - (for eksempel 10.123.123.1)\n\nHvis du fremdeles ikke får kontakt med laptopen når du kobler på PC-nummeret, kan du forsøke å skrive inn denne IPv4 adressen i stedet (der du vanligvis legger inn LT-123456). Denne adressen er ikke statisk, så den kan endres fra dag til dag – hvis det er langt mellom laptopen og stedet du kobler deg til fra, kan det være lurt å tillegge seg en vane om å notere ned den gjeldende IP-adressen før du skal koble deg på via RDP.\n\nKB0029783 "
+    },
+    {
+        "description":"Adobe Acrobat Standard (mangler fra Equinor Applications, eller finner ikke programmet)",
+    "value": "4",
+    "name": "Adobe Acrobat Standard (mangler fra Equinor Applications, eller finner ikke programmet)",
+    "content":"Etter årsskiftet 2018/2019 har Adobe Acrobat Standard blitt fjernet fra Equinor Applications.\nNå skal programmet bli installert automatisk i bakgrunnen. En annen endring er at programmet nå kun heter «Adobe Acrobat 2017» i start-menyen.\nKan du se om du finner programmet «Adobe Acrobat 2017» i start-menyen din?  "
+    },
+    {
+        "description":"Ekstern kontraktør O365-tilgang",
+    "value": "5",
+    "name": "Ekstern kontraktør O365-tilgang",
+    "content":"Som ekstern kontraktør i Equinor trenger du en ekstra tilgang fra AccessIT for å få tilgang til Outlook og andre Office-programmer. Hvis du har hatt den tidligere, kan det hende at den har gått ut på dato da den må fornyes årlig.\nKan du først sjekke om du har følgende tilgang under My Access på AccessIT: O365 (ECS): EMAIL, FILE STORAGE, OFFICE ONLINE & ON PCS\nhttps://accessit.equinor.com/Request/MyAccess\nHvis du ikke har tilgangen liggende der, må den søkes om på nytt. Det kan du gjøre herifra:\nhttps://accessit.equinor.com/Search/Search?term=O365+%28ECS%29%3A+EMAIL%2C+FILE+STORAGE%2C+OFFICE+ONLINE+%26+ON+PCS \nTilgangen blir automatisk godkjent, men det kan dessverre ta mellom 4 til 24 timer fra tilgangen er søkt på til lisensen er aktiv i systemet, så det er mulig du ikke vil få full tilgang før i morgen.\n\nKB0034176 "
+    },
+    {
+        "description":"Windows 10 – offshore-bruker var ikke tilstede under utrulling",
+    "value": "6",
+    "name": "Windows 10 – offshore-bruker var ikke tilstede under utrulling",
+    "content":"Jeg kan opprette en sak for deg til Windows 10-teamet. Jeg trenger følgende informasjon:\n-Nåværende gult/hvitt nummer\n-Hvilken PC du ønsker\n-Hvilken lokasjon (Go-To-IT) du kan hente den nye PCen på\n-Hvilken dato du er ledig for bytte"
+    },
+    {
+        "description":"SafeNet MobilePASS",
+    "value": "7",
+    "name": "SafeNet MobilePASS",
+    "content":"Da har vi sendt en ny enrollment link til din epost. Denne mailen må åpnes på utstyret(mobil eller pc) du skal sette opp MobilePASS på. Logg inn på Self-Enrollment linken med ditt Equinor-kortnavn og passord.\nHvis du ikke har installert MobilePASS på mobilen din enda, må dette gjøres først.\nDenne KB-artikkelen beskriver fremgangsmåten både for å installere og sette opp SafeNet MobilePASS. Bare gi beskjed om du har spørsmål eller trenger assistanse.\n\nKB0037204 "
+    },
+    {
+        "description":"ID-Kort",
+        "value": "10",
+        "name": "ID-Kort",
+        "content":"For å bestille nytt adgangskort må man fysisk møte opp på lokalt ID-kortkontor i deres åpningstider (det er ingen bestilling av time). Den som skal ha nytt kort eller ta bilde må ha med seg gyldig legitimasjon, dette er kun førerkort, pass eller internasjonal legitimasjon. De ulike ID-kort sentrene har forskjellige åpningstider, vennligst åpne KB0035054. "
+    },
+    {
+        "description":"Problemer med kontorpult",
+        "value": "11",
+        "name": "Problemer med kontorpult",
+        "content":"Sjekk at alle kontaktene er skikkelig på plass. Kjør så pulten helt ned. Trykk og hold 'ned' knappen inne i ca 10-15 sekunder, dette vil resette hevefunksjonen. Prøv deretter å heve pulten. "
+    }
+
+]
+
+
+    

@@ -1,0 +1,54 @@
+
+[
+    {
+        "description":"English to Norwegian",
+    "value": "1",
+    "name": "English to Norwegian",
+    "content":"You have contacted the English language chat support. Do you want me to transfer you to one of our colleagues on the Norwegian chat support? "
+    },
+    {
+        "description":"IT to HR",
+    "value": "2",
+    "name": "IT to HR",
+    "content": "You have now contacted the general chat, and this inquiry falls under our HR-department.\nYou must therefore open a new chat and choose: 'HR Live Chat' on this page: https://equinor.service-now.com/selfservice?id=connect_live_chat \nSorry for the inconvenience, have a nice day!  "
+    },
+    {  
+        "description":"IT to SubSurface",   
+    "value": "3",
+    "name": "IT to SubSurface",
+    "content": "This inquiry falls under our SubSurface/UNIX-department. Please wait while I find an available agent to connect you with."
+    },
+    {
+        "description":"IT to Finance/Procurement",
+    "value":"4",
+    "name":"IT to Finance/Procurement",
+    "content":"This inquiry falls under our Finance/Procurement-department. Please wait while I find an available agent to connect you with."
+    },
+    {
+        "description":"IT to Facility",
+    "value":"5",
+    "name":"IT to Facility",
+    "content":"This inquiry falls under our Facility-department. Unfortunately they are not available on chat. I can create a ticket and convey your inquiry to them. "
+    },    
+    {
+    "description":"IT to Meetingroom",
+    "value":"5",
+    "name":"IT to Meeting room",
+    "content":"This inquiry falls under our Meetingroom-department. Unfortunately they are not available on chat. I can create a ticket and convey your inquiry to them. If this is of urgency, your you wish to be assisted immediately, please call us on: +47 51 999 222 and press the extention '0' for meetingroom support "
+    },
+    {
+        "description":"IT to o365",
+    "value":"6",
+    "name":"IT to o365",
+    "content":"We have a dedicated team that handles more complex office-related inquiries. Please hold this chat open for a moment while I transfer you.\nThank you for chatting with us today. If you have any more questions, feel free to contact us at your leisure. \nHave a great day!"
+    },
+    {
+        "description":"IT to Synergi",
+    "value":"6",
+    "name":"IT to SYNERGI",
+    "content":"We have a dedicated team that handles synergi-related inquiries. Please hold this chat open for a moment while I transfer you.\nThank you for chatting with us today. If you have any more questions, feel free to contact us at your leisure. \nHave a great day!"
+    }
+]
+
+
+    

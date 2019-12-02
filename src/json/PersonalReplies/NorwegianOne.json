@@ -1,0 +1,30 @@
+
+[
+    {
+        "description":"Ytterligere spørsmål",
+    "value": "1",
+    "name": "Ytterligere spørsmål",
+    "content":"Hei,\nKan du utdype spørsmålet ditt ytterligere er du snill?"
+    },
+    {
+        "description":"Laget sak",
+    "value": "2",
+    "name": "Laget sak",
+    "content": "Da har jeg etablert en sak på dine vegne. Referansenummeret finner du i lenken ovenfor, og du vil bli tilsendt en kopi per epost."
+    },
+    {  
+        "description":"Skype oppkobling",   
+    "value": "3",
+    "name": "Skype oppkobling",
+    "content": "Jeg blir nødt til å kontakte deg på Skype, da Remote Assistance Tool later til å ha problemer med å koble opp til din PC.\nSkriver til deg nå slik at vi kan dele skjerm der."
+    },
+    {
+    "description":"Gult/Hvitt",
+    "value": "4",
+    "name": "Gult/Hvitt",
+    "content":"Kan jeg få det gule/hvite nummeret til din PC slik at jeg kan koble meg opp og ta en kikk?"        
+    }
+]
+
+
+    

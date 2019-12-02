@@ -1,0 +1,48 @@
+﻿
+[
+        {
+            "description":"Norsk til Engelsk",
+        "value": "1",
+        "name": "Norsk til Engelsk",
+        "content":"You have contacted the Norwegian language chat support. Do you want me to transfer you to one of our colleagues on the English chat support? "
+        },
+        {
+            "description":"IT til HR",
+        "value": "2",
+        "name": "IT til HR",
+        "content": "Du har nå tatt kontakt med generell chat, og dette er noe som ligger under HR avdelingen.\nVennligst vent mens jeg overfører deg til en ledig kundebehandler"
+        },
+        {  
+            "description":"IT til SubSurface",   
+        "value": "3",
+        "name": "IT til SubSurface",
+        "content": "Dette ligger under SubSurface / Unix-delen av vår Service Desk. De er kun tilgjengelig på engelsk chat. Vil du at jeg skal sette deg over dit?"
+        },
+        {
+            "description":"IT til finans/procurement",
+        "value":"4",
+        "name":"IT til Finans/Procurement",
+        "content":"Dette ligger under avdelingen Finans og Anskaffelser. Vent et lite øyeblikk mens jeg finner en ledig kundebehandler jeg kan sette deg over til. "
+        },
+        {
+            "description":"IT til Facility",
+        "value":"5",
+        "name":"IT til Facility",
+        "content":"Dette ligger under Facility-avdelingen. De er dessverre ikke tilgjengelige på chat. Jeg kan lage en sak og videreformidle henvendelsen din til Facility-teamet. "
+        },
+        {
+            "description":"IT til Møterom",
+        "value":"6",
+        "name":"IT til Møterom",
+        "content":"Dette ligger under Møteroms-avdelingen. De er dessverre ikke tilgjengelige på chat. Jeg kan lage en sak og videreformidle henvendelsen din.\nDersom saken din haster eller du ønsker å få umiddelbar hjelp, anbefaler jeg at du ringer oss på: +47 51 999 222 og velger forlengelsen '0' for Møterom "
+        },
+        {
+            "description":"IT til o365",
+        "value":"7",
+        "name":"IT til o365",
+        "content":"Vi har en dedikert O365-chat på Engelsk som kan hjelpe til med mer kompliserte problemer og spørsmål om O365 / Office-programmene. Er det greit om jeg overfører deg dit? "
+        }
+]
+    
+
+        
