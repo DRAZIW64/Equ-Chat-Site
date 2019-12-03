@@ -26,12 +26,12 @@ class Popup extends React.Component {
             <br/>
             <div className="help-divsep">
             <h3 className="help-topic"> Edit names of chat-operators </h3>
-            <p className="help-paragraph">In the json-folder:<br/>Open "Operators.json" and edit / change the name you want.<br/><strong>Do not edit value!</strong><br/>There may be up to 10 operators on this site for each language, so edit existing or remove those whom does not chat alot.<br/><img src={helpTwo}></img> </p>
+            <p className="help-paragraph">In the json-folder:<br/>Open "Operators.json" and edit / change the name you want.<br/><strong>Do not edit value!</strong><br/>There may be up to 10 operators on this site for each language, so edit existing or remove those whom does not chat alot.<br/><img src={helpTwo} alt="JSON filestructure"></img> </p>
             </div>
             <br/>
             <div className="help-divsep">
             <h3 className="help-topic"> Edit your personal favorite messages </h3>
-            <p className="help-paragraph">In the json-folder: Open "Operators.json" and see the corresponding "value" to your name.<br/> If your value is "1", Open the "PersonalReplies"-folder and open corresponding .json (example: EnglishOne).<br/>Edit content of already created info or add a new one by:<br/>1: adding a "," to bracket above.<br/>2: duplicating the setup above. <br/>3: giving changing value to one more then the one above like shown in the photo beneath: <br/><img src={helpOne}></img> <br/><strong>Remember: The last bracket does NOT contain a comma</strong> </p>
+            <p className="help-paragraph">In the json-folder: Open "Operators.json" and see the corresponding "value" to your name.<br/> If your value is "1", Open the "PersonalReplies"-folder and open corresponding .json (example: EnglishOne).<br/>Edit content of already created info or add a new one by:<br/>1: adding a "," to bracket above.<br/>2: duplicating the setup above. <br/>3: giving changing value to one more then the one above like shown in the photo beneath: <br/><img src={helpOne} alt="JSON filestructure"></img> <br/><strong>Remember: The last bracket does NOT contain a comma</strong> </p>
             </div>
             <br/>
             <button className="help-button" onClick={this.props.closePopup}>Close</button>
@@ -39,7 +39,7 @@ class Popup extends React.Component {
             <div className="help-divsep">
             <h3 className="help-topic"> Edit/add/remove Standard replies, transfers or common enquiries </h3>
             <p className="help-paragraph">Editing: <br />Open the file you want to edit and edit text in either the Norwegian or English version. Save and quit. </p>
-            <p className="help-paragraph">Adding: <br />Add a comma to the bracket above. <br /> duplicate content of value above <br /> remove text. <br /> add unique value(above+1) and fill in what you need like photo below:<img src={helpThree}></img> <br/>If you want a linebreak, add \n to the code as this image shows:<br/><img src={helpFour}></img> </p>
+            <p className="help-paragraph">Adding: <br />Add a comma to the bracket above. <br /> duplicate content of value above <br /> remove text. <br /> add unique value(above+1) and fill in what you need like photo below:<img src={helpThree} alt="JSON filestructure"></img> <br/>If you want a linebreak, add \n to the code as this image shows:<br/><img src={helpFour} alt="JSON filestructure"></img> </p>
             </div>
             <br/>
             <button className="help-button" onClick={this.props.closePopup}>Close</button>
